@@ -9,13 +9,13 @@ codelab](https://firebase.google.com/codelabs/ai-genkit-rag).
 If you want to try out an early preview of Data Connect, we have instructions
 below for you to follow!
 
-# Try it out today!
+# Try it out today
 
 We recommend trying this project in IDX since it handles all dependencies for
 you. You are able to launch this project in IDX and get going testing with
 only slight configuration required.
 
-<a href="https://idx.google.com/import?url=https%3A%2F%2Fgithub.com%2FFirebaseExtended%2Fcompass-travel-planning-sample">
+<a href="https://idx.google.com/import?url=https%3A%2F%2Fgithub.com%2Falexastrum%2Fcompass-travel-planning-sample">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.idx.dev/btn/try_light_32.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.idx.dev/btn/try_dark_32.svg">
@@ -42,4 +42,5 @@ Open the app in Project IDX using the button above.
 1. Next click on the Firebase side bar icon to open the Firebase side bar panel. Click the "Connect to Local PostgreSQL" button to run the Data Connect emulator.
 
 ### Misc
+
 This app is not an officially supported Google product
